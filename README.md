@@ -23,3 +23,5 @@ Just plug that board into a USB powerbank, put it into your bag and roam around 
 
 # Sidenote
 
+Poster found on [indibay](https://www.indybay.org/)
+PDF version is in img folder of this repo
